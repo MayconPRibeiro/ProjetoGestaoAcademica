@@ -1,8 +1,8 @@
 • Classes, atributos e métodos 
 • Encapsulamento - ter atributos privados para proteção
-• Herança V
+• Herança V Completo
 • Polimorfismo - sobrescrever metodo herdado
-• Métodos e classes abstratas
+• Métodos e classes abstratas V metodo: print(aluno.apresentar())  # Saída: Olá, sou o aluno Carlos, e estou cursando Matemática.
 • Atributos e métodos de classe
 • Associações entre objetos (agregação, composição)
 • Mapeamento objeto-relacional (ORM) com SQLAlchemy
