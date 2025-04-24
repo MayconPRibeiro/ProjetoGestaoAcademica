@@ -1,0 +1,8 @@
+• Classes, atributos e métodos 
+• Encapsulamento - ter atributos privados para proteção
+• Herança V
+• Polimorfismo - sobrescrever metodo herdado
+• Métodos e classes abstratas
+• Atributos e métodos de classe
+• Associações entre objetos (agregação, composição)
+• Mapeamento objeto-relacional (ORM) com SQLAlchemy
